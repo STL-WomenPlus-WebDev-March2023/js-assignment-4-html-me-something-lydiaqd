@@ -1,11 +1,16 @@
 p {
-color:white
-}
-
-.header {
-color:white
-}
-
-#page-title {
-color:white
-}
+    color:blue;
+    }
+    
+    .funParagraph {
+    color: green;
+    }
+    
+    #mainHeading {
+    color:red;
+    }
+    
+    #testP {
+        font-family: verdana;
+        font-size: 20px;
+      }
