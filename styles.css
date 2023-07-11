@@ -1,16 +1,41 @@
-p {
+    p {
     color:blue;
     }
-    
+
+    body {background-color:lightgoldenrodyellow;}
+
     .funParagraph {
     color: green;
+    font-size: 20px;
+    padding: 25px;
+    }
+
+    .subHeader {
+      color:black;
+      text-align:center;
+      font-size: 40px;
     }
     
     #mainHeading {
     color:red;
+    font-size: 40px;
     }
     
     #testP {
-        font-family: verdana;
+        font-family:verdana;
         font-size: 20px;
-      }
+    }
+
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 0px;
+      margin-bottom: 5px;
+      width: 50%
+    }
+
+    hr.rounded {
+      border-top: 2px solid #000000;
+      border-radius: 15px;
+    }
